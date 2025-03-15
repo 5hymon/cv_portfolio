@@ -1,0 +1,26 @@
+Zawartość projektu (należy się trzymać wskazanej numeracji):
+Imię, nazwisko, indeks, przedmiot, data
+1. Opis problemu
+ a) Opisz zbiór danych, cechy i podaj źródło danych
+ b) Załaduj potrzebne biblioteki
+ c) Załaduj zbiór danych (dane powinny być lokalnie w katalogu)
+
+2. Opis danych
+ a) Statystyki opisowe
+ b) Wizualizacje danych
+
+3. Przygotowanie danych
+ a) Czyszczenie danych (w tym uzupełnianie pustów wartości, jeśli jest to konieczne)
+ b) Wybór cech
+ c) Przekształcenia danych (np. normalizacja, dyskretyzacja)
+
+4. Tworzenie modelu i ocena (algorytmów)
+ - wymagane przynajmniej 3 algorytmy dla Orange i 2 dla Pythona
+ a) Podziel zbiór danych (trening i test), sposób uzasadnij
+ b) Wskaż wykorzystaną metodę/algorytmy, ewentualnie najważniejsze parametry metody/algorytmu
+ c) Przedstaw wyniki oraz porównaj algorytmy według wskazanych metod oceny.
+ d) Przedstaw przykładowy wynik (klasyfikacji lub regresji)
+ e) Wskaż lub wykonaj czynności poprawiające wynik.
+
+5. Podsumuj projekt
+ a) Wnioski
